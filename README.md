@@ -1,4 +1,4 @@
-# InheritanceSimulation
+# Inheritance Simulation
 
 ![](inheritance.png)
 
